@@ -1,1 +1,2 @@
 Test conflict 2
+Test conflict 1
